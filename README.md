@@ -10,10 +10,10 @@ It features a clean layout , and a contact form.
 ## 📸 Screenshots
 
 ### 📱 In Mobile Screen Mode
-![Mobile Mode]()
+![Mobile Mode(UI_images/In Mobile Screen.png)
 
 ### 💻 In Large Screen Mode
-![Large Mode]()
+![Large Mode](UI_images/In Large Screen.png)
 
 ---
 
