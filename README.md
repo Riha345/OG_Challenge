@@ -10,7 +10,7 @@ It features a clean layout , and a contact form.
 ## 📸 Screenshots
 
 ### 📱 In Mobile Screen Mode
-![Mobile Mode(UI_images/In Mobile Screen.png)
+![Mobile Mode](<img width="826" height="5520" alt="Image" src="https://github.com/user-attachments/assets/2b33808d-dd60-47da-aefa-40b56a986161" />)
 
 ### 💻 In Large Screen Mode
 ![Large Mode](UI_images/In Large Screen.png)
