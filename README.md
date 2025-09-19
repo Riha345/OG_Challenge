@@ -12,7 +12,7 @@ A fully responsive landing page built using **HTML** and **Tailwind CSS**. Desig
 Optimized for all devices, this landing page ensures a seamless user experience across **desktops, tablets, and mobile devices**.
 
 
-🔗 **Live Demo**: [View Here]()
+🔗 **Live Demo**: [View Here]( https://riha345.github.io/OG_Challenge/)
 
 ---
 
